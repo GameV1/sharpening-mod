@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/game_/Desktop/plugins/libs/spigot-1.12.2.jar" sourcepath="C:/Users/game_/Desktop/plugins/libs/Bukkit-1.7.9-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
