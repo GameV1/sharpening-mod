@@ -26,7 +26,7 @@ public class Plugin extends JavaPlugin implements Listener {
 		ItemStack currentItem = event.getCurrentItem();
 		
 		boolean flag = true;
-		flag &= cursorItem.getType() == Material.GOLD_NUGGET; // sharpening material
+		flag &= cursorItem.getType() == Material.GOLD_NUGGET; // sharpening material		
 		flag &= currentItem.getType() == Material.DIAMOND_SWORD; // weapon material
 
 		if (flag) {
