@@ -1,2 +1,2 @@
-# sharpening-mod
+# sharpening-plagin
 Basic mod for sharpening
